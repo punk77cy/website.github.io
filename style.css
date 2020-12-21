@@ -18,7 +18,7 @@ body{
     overflow: hidden;
 }
 #f{
-    color:#FF6363;
+    color:#FFFF33;
     width: 400%;
     word-wrap: break-word;
     transform: rotate(-15deg) translateY(-600px) translateX(-300px);
