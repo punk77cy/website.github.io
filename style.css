@@ -10,7 +10,7 @@ html{
     width:100%;
 }
 body{
-    background-color: #fc036b;
+    background-color: #eb34eb;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -18,7 +18,7 @@ body{
     overflow: hidden;
 }
 #f{
-    color:#000000;
+    color:#ffffff;
     width: 400%;
     word-wrap: break-word;
     transform: rotate(-15deg) translateY(-600px) translateX(-300px);
